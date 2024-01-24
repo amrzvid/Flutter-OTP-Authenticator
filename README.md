@@ -47,4 +47,4 @@ Azamuddeen:
 - Participate in the frontend development process.
 - Integrate the backend with the Flutter app.
 - Assist with user interactions and state management.
-- Collaborate with Aiman and Amor on frontend tasks related to authentication.
+- Collaborate with Aiman and Amir on frontend tasks related to authentication.
