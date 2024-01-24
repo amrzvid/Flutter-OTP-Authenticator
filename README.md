@@ -1,16 +1,50 @@
-# otp_auth
+# OTP Phone Authentication Mobile Application
 
-A new Flutter project.
+- This is a mobile app used to authenticate valid user by using One Time Password (OTP)'s system 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Features included 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Welcome Page
+- Home Page (Login)
+- OTP Code Validation Page
+- Update User Profile Page
+- User Profile Page
+- Firebase Authentication
+- Firebase Storage
+- Cloud Firestore
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Our Team
+
+This project was made by:
+
+- Amir
+- Azam
+- Haziq
+- Aiman
+
+
+## Work Distribution
+
+Haziq Izzat: 
+- Implement the OTP input screen using the pinput package.
+- Assisting with setting up basic backend functionalities and learning about Firebase endpoints and their integration.
+- Integrate user authentication with the OTP validation process.
+
+Aiman Syakirin:
+- Set up a firebase server.
+- Implement firebase for OTP validation.
+- Implement additional UI components and screens.(custom button)
+
+Amir Zaid :
+- Choose and set up an authentication service (e.g., Firebase Authentication).
+- Implement user authentication on the backend.
+- Handle user interactions and UI state.
+
+Azamuddeen:
+- Participate in the frontend development process.
+- Integrate the backend with the Flutter app.
+- Assist with user interactions and state management.
+- Collaborate with Aiman and Amir on frontend tasks related to authentication.
