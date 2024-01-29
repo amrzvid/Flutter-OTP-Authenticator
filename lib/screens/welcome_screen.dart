@@ -26,7 +26,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
               children: [
                 const SizedBox(height: 20),
                 const Text(
-                  "Let's Get Started!",
+                  "Welcome to IIUMap!",
                   style: TextStyle(
                     fontSize: 22,
                     fontWeight: FontWeight.bold,
@@ -34,7 +34,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
                 ),
                 const SizedBox(height: 10),
                 const Text(
-                  "Never a better time than now to start!",
+                  "Navigate your way around IIUM with ease!",
                   style: TextStyle(
                     fontSize: 14,
                     color: Colors.black38,
